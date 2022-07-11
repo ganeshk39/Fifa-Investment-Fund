@@ -303,10 +303,6 @@ li{
     font-size: 7rem;
 }
 
-#privacy .image{
-  min-height: 450px;
-}
-
 #privacy_info{
   margin-bottom: 40px;
 }
@@ -500,6 +496,11 @@ textarea{
 
     }
 
+    #home_showcase img{
+      min-height: 400px;
+      object-fit: cover;
+    }
+
     #introduction .image{
       justify-self: center;
       grid-row: 1/-1;
@@ -524,6 +525,11 @@ textarea{
       max-width: 450px;
     }
 
+    #privacy_info .image img{
+      min-height: 400px;
+      object-fit: cover;
+    }
+
     #reverse_scores .image, #earning .image, #refund .image{
       margin-bottom: 30px;
       margin-top: 5px;
@@ -533,6 +539,11 @@ textarea{
 
     #earning .image{
       grid-row: 2/-2;
+    }
+
+    #about_showcase img{
+      min-height: 400px;
+      object-fit: cover;
     }
 
 
