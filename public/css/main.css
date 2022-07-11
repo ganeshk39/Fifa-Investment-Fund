@@ -485,7 +485,7 @@ textarea{
     }
 
     :root{
-      font-size: 8px;
+      font-size: 7px;
     }
 
   }
@@ -494,11 +494,6 @@ textarea{
     .grid_layout{
       grid-template-columns: 1fr !important;
 
-    }
-
-    #home_showcase img{
-      min-height: 400px;
-      object-fit: cover;
     }
 
     #introduction .image{
@@ -525,11 +520,6 @@ textarea{
       max-width: 450px;
     }
 
-    #privacy_info .image img{
-      min-height: 400px;
-      object-fit: cover;
-    }
-
     #reverse_scores .image, #earning .image, #refund .image{
       margin-bottom: 30px;
       margin-top: 5px;
@@ -539,11 +529,6 @@ textarea{
 
     #earning .image{
       grid-row: 2/-2;
-    }
-
-    #about_showcase img{
-      min-height: 400px;
-      object-fit: cover;
     }
 
 
@@ -558,6 +543,6 @@ textarea{
       display: none;
     }
     :root{
-      font-size: 6px;
+      font-size: 5px;
     }
   }
