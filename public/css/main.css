@@ -183,7 +183,6 @@ li{
   #introduction .image{
     max-width: 200px;
     justify-self: end;
-    min-height: 450px;
   }
 
   #benefits{
@@ -229,7 +228,6 @@ li{
 
 #about_showcase .showcase_img{
   filter: brightness(0.3);
-  min-height: 450px;
 }
 
   #company_profile{
